@@ -1,3 +1,23 @@
 .border-all{
     border-style: solid;
+    border-bottom: 1em;
+}
+.color-font{
+    color: black;
+}
+
+.color-bg-orange{
+    background-color:#FF9933;
+}
+
+.color-bg-white{
+    background-color:white;
+}
+
+.color-bg-green{
+    background-color:#128807;
+}
+
+.color-padding{
+    padding: 5em;
 }
