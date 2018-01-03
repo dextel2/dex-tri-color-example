@@ -2,22 +2,25 @@
     border-style: solid;
     border-bottom: 1em;
 }
-.color-font{
+.font-properties{
     color: black;
+    font-variant-caps: normal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
 }
 
 .color-bg-orange{
     background-color:#FF9933;
+    padding: 5em;
 }
 
 .color-bg-white{
     background-color:white;
+    padding: 5em;
 }
 
 .color-bg-green{
     background-color:#128807;
-}
-
-.color-padding{
     padding: 5em;
 }
+
